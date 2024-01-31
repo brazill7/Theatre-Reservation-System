@@ -1,0 +1,5 @@
+1 A B 
+2 X B 
+3 A B 
+4 A X 
+5 A B 
